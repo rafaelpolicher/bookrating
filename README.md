@@ -40,3 +40,47 @@ Admin: email admin@gmail.com senha: 123
 
 <h2>Atenção</h2>
 Por questões de segurança, não utilize informações reais ao criar sua conta no sistema. O BookRating é uma aplicação voltada exclusivamente para fins educacionais e de estudo.
+
+
+<hr>
+
+<h1>BookRating - Book Rating System</h1>
+<h2>Description</h2>
+BookRating is a system developed with the aim of providing a book rating platform, allowing users to share their literary opinions and experiences. The project uses the Laravel framework, combined with best web development practices.
+
+<h2>Functionalities</h2>
+The system offers three user levels with different permissions and functionality:
+User: Users can view posts, explore book reviews, and interact with the community through comments.
+
+Editor: Editors have privileged access, being able to create, edit and delete their own reviews. Also, they can manage the comments related to their publications.
+
+Administrator: Administrators have full control over the system. They can manage all users' ratings and comments, as well as have the ability to modify user roles.
+
+<h2>Technologies Used</h2>
+PHP 8.1: Programming language widely used in web development.
+
+Laravel 10: Robust and elegant PHP framework that provides a solid foundation for building high-quality web applications.
+
+HTML: Markup language for structuring and presenting system content.
+
+CSS: Styling language used to improve the layout and visual appearance of the system.
+
+JavaScript: Client-side programming language that adds interactivity and dynamism to the system.
+
+Materialize CSS: Responsive CSS framework that makes it easy to create modern and attractive user interfaces.
+
+<h2>Installation and Use</h2>
+To use BookRating go to:
+
+http://bookrating.x10.mx/
+
+For testing use:
+
+User: email: user@gmail.com password: 123
+
+Editor: email: editor@gmail.com password: 123
+
+Admin: email admin@gmail.com password: 123
+
+<h2>Attention</h2>
+For security reasons, do not use real information when creating your account on the system. BookRating is an application designed exclusively for educational and study purposes.
