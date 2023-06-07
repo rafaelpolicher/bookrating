@@ -50,6 +50,7 @@ BookRating is a system developed with the aim of providing a book rating platfor
 
 <h2>Functionalities</h2>
 The system offers three user levels with different permissions and functionality:
+
 User: Users can view posts, explore book reviews, and interact with the community through comments.
 
 Editor: Editors have privileged access, being able to create, edit and delete their own reviews. Also, they can manage the comments related to their publications.
@@ -57,6 +58,7 @@ Editor: Editors have privileged access, being able to create, edit and delete th
 Administrator: Administrators have full control over the system. They can manage all users' ratings and comments, as well as have the ability to modify user roles.
 
 <h2>Technologies Used</h2>
+
 PHP 8.1: Programming language widely used in web development.
 
 Laravel 10: Robust and elegant PHP framework that provides a solid foundation for building high-quality web applications.
