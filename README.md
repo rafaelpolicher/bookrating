@@ -1,6 +1,6 @@
 <h1>BookRating - Sistema de Avaliação de Livros</h1>
 <h2>Descrição</h2>
-O BookRating é um sistema desenvolvido com o objetivo de proporcionar uma plataforma de avaliação de livros, permitindo que os usuários compartilhem suas opiniões e experiências literárias. O projeto utiliza o framework Laravel, combinado com as melhores práticas de desenvolvimento web.
+O BookRating é um sistema desenvolvido com o objetivo de proporcionar uma plataforma de avaliação de livros, permitindo que os usuários compartilhem suas opiniões e experiências literárias. O projeto utiliza o framework Laravel, combinado com as melhores práticas de desenvolvimento web. Ainda é projeto em andamento e serão corrigidos possíveis erros e a inserção de novas funcionalidades.
 
 <h2>Funcionalidades</h2>
 O sistema oferece três níveis de usuários com diferentes permissões e funcionalidades:
