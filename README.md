@@ -39,7 +39,7 @@ Editor: email: editor@gmail.com senha: 123
 Admin: email admin@gmail.com senha: 123
 
 <h2>Atenção</h2>
-Por questões de segurança, não utilize informações reais ao criar sua conta no sistema. O BookRating é uma aplicação voltada exclusivamente para fins educacionais e de estudo.
+O BookRating é uma aplicação voltada exclusivamente para fins educacionais e de estudo.
 
 
 <hr>
@@ -85,4 +85,4 @@ Editor: email: editor@gmail.com password: 123
 Admin: email admin@gmail.com password: 123
 
 <h2>Attention</h2>
-For security reasons, do not use real information when creating your account on the system. BookRating is an application designed exclusively for educational and study purposes.
+BookRating is an application designed exclusively for educational and study purposes.
