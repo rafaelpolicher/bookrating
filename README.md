@@ -5,11 +5,11 @@ O BookRating é um sistema desenvolvido com o objetivo de proporcionar uma plata
 <h2>Funcionalidades</h2>
 O sistema oferece três níveis de usuários com diferentes permissões e funcionalidades:
 
-Usuário: Os usuários podem visualizar as publicações, explorar avaliações de livros e interagir com a comunidade através de comentários.
+Usuário: Os usuários podem visualizar as publicações e explorar avaliações de livros.
 
-Editor: Os editores têm acesso privilegiado, podendo criar, editar e excluir suas próprias avaliações. Além disso, eles podem gerenciar os comentários relacionados às suas publicações.
+Editor: Os editores têm acesso privilegiado, podendo criar, editar e excluir suas próprias avaliações.
 
-Administrador: Os administradores têm controle total sobre o sistema. Eles podem gerenciar as avaliações e comentários de todos os usuários, além de ter a capacidade de modificar as funções dos usuários.
+Administrador: Os administradores têm controle total sobre o sistema. Eles tem os mesmos privilégios dos editores e podem modificar as funções dos usuários.
 
 <h2>Tecnologias Utilizadas</h2>
 PHP 8.1: Linguagem de programação amplamente utilizada no desenvolvimento web.
@@ -51,11 +51,11 @@ BookRating is a system developed with the aim of providing a book rating platfor
 <h2>Functionalities</h2>
 The system offers three user levels with different permissions and functionality:
 
-User: Users can view posts, explore book reviews, and interact with the community through comments.
+User: Users can view posts and explore book reviews.
 
-Editor: Editors have privileged access, being able to create, edit and delete their own reviews. Also, they can manage the comments related to their publications.
+Editor: Editors have privileged access to create, edit and delete their own reviews.
 
-Administrator: Administrators have full control over the system. They can manage all users' ratings and comments, as well as have the ability to modify user roles.
+Administrator: Administrators have complete control over the system. They have the same editor privileges, and have the ability to modify user roles.
 
 <h2>Technologies Used</h2>
 
@@ -69,7 +69,7 @@ CSS: Styling language used to improve the layout and visual appearance of the sy
 
 JavaScript: Client-side programming language that adds interactivity and dynamism to the system.
 
-Materialize CSS: Responsive CSS framework that makes it easy to create modern and attractive user interfaces.
+Materialize CSS: Responsive CSS framework that makes creating modern and attractive user interfaces easy.
 
 <h2>Installation and Use</h2>
 To use BookRating go to:
